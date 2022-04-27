@@ -1,2 +1,2 @@
 # COMP9024
-Professor: Hui Wu
+> Professor: Hui Wu
